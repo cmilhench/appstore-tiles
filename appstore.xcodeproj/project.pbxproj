@@ -13,6 +13,7 @@
 		237B225222DF6D2600D587E7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 237B225022DF6D2600D587E7 /* Main.storyboard */; };
 		237B225422DF6D2600D587E7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 237B225322DF6D2600D587E7 /* Assets.xcassets */; };
 		237B225722DF6D2600D587E7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 237B225522DF6D2600D587E7 /* LaunchScreen.storyboard */; };
+		237B225F22DF885F00D587E7 /* TodayViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 237B225E22DF885F00D587E7 /* TodayViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		237B225322DF6D2600D587E7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		237B225622DF6D2600D587E7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		237B225822DF6D2600D587E7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		237B225E22DF885F00D587E7 /* TodayViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TodayViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				237B224A22DF6D2600D587E7 /* AppDelegate.swift */,
 				237B224C22DF6D2600D587E7 /* FirstViewController.swift */,
 				237B224E22DF6D2600D587E7 /* SecondViewController.swift */,
+				237B225E22DF885F00D587E7 /* TodayViewController.swift */,
 				237B225022DF6D2600D587E7 /* Main.storyboard */,
 				237B225322DF6D2600D587E7 /* Assets.xcassets */,
 				237B225522DF6D2600D587E7 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				237B225F22DF885F00D587E7 /* TodayViewController.swift in Sources */,
 				237B224F22DF6D2600D587E7 /* SecondViewController.swift in Sources */,
 				237B224B22DF6D2600D587E7 /* AppDelegate.swift in Sources */,
 				237B224D22DF6D2600D587E7 /* FirstViewController.swift in Sources */,
